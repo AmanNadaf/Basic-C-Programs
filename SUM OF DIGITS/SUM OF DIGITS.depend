@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593604022 source:c:\users\amaan nadaf\documents\c++ programmes\sum of digits\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
